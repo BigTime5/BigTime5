@@ -59,6 +59,6 @@ Hi there! I'm **Phinidy George**, a passionate Data Scientist with a knack for t
 ## 📫 Get in Touch
 - **X**: [@i_am_phin](https://x.com/i_am_phin)
 - **Email**: [phinidygeorge01@gmail.com](mailto:phinidygeorge01@gmail.com)
-- **LinkedIn**: [linkedin.com/in/phinidy-george](https://linkedin.com/in/phinidy-george)
+- **LinkedIn**: [linkedin.com/in/phinidy-george](https://www.linkedin.com/in/phinidy-george-ba02bb2b5/)
 
 Feel free to explore my repositories and connect for collaboration or data science discussions!
