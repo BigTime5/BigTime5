@@ -42,15 +42,15 @@ Hi there! I'm **Phinidy George**, a passionate Data Scientist with a knack for t
 
 - **SafariHub**  
   A recommendation system for Kenyan tourism, built with Python, Pandas, and Scikit-learn. Leverages user preferences to suggest personalized travel experiences.  
-  [🔗 View Project](https://github.com/yourusername/SafariHub)
+  [🔗 View Project](https://github.com/BigTime5/SafariHub)
 
 - **Google-and-Apple-Sentiment-Analysis**  
   A sentiment analysis model analyzing tweets about Google and Apple using NLP techniques, built with Python, TensorFlow, and Pandas. Achieved high accuracy in classifying sentiment.  
-  [🔗 View Project](https://github.com/yourusername/Google-and-Apple-Sentiment-Analysis)
+  [🔗 View Project](https://github.com/BigTime5/Google-and-apple-sentiment-analysis)
 
 - **Stock Volatility Forecasting API**  
   A Python-based FastAPI project using SQLite and GARCH(1,1) models to forecast stock volatility for AMZN and WMT, reducing investment risk by 10%.  
-  [🔗 View Project](https://github.com/yourusername/stock-volatility-forecasting)
+  [🔗 View Project](https://github.com/BigTime5/stock-forecasting-api)
 
 ## 🌱 Currently Learning
 - Deepening my expertise in **Generative AI** and **MLOps** to build scalable AI pipelines.
@@ -58,7 +58,7 @@ Hi there! I'm **Phinidy George**, a passionate Data Scientist with a knack for t
 
 ## 📫 Get in Touch
 - **X**: [@i_am_phin](https://x.com/i_am_phin)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [your.email@example.com](mailto:phinidygeorge01@gmail.com.com)
 - **LinkedIn**: [linkedin.com/in/phinidy-george](https://linkedin.com/in/phinidy-george)
 
 Feel free to explore my repositories and connect for collaboration or data science discussions!
